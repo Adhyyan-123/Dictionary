@@ -1,0 +1,75 @@
+age
+1)The whole duration of a being
+2)One of the stages of life
+3)A particular period of time in history
+4)A generation
+ally
+1)To unite
+2)To connect by friendship or love
+3)To make common cause
+4)To form a relation
+alliance
+1)The state of being allied
+2)The act of uniting
+3)A union or connection of interests between families 
+4)A coalition between political parties
+achieve
+1)To succeed in something
+2)To accomplish
+3)To carry out a task successfully
+4)To accomplish
+academic
+1)Belonging to the school of philosophy of Plato
+2)Belonging to a higher institution of learning
+3)A person engaged in scholarly pursuits
+4)A person who attends a academy
+ball
+1)A solid or hollow sphere
+2)The use of a round object in sport
+3)A formal dance
+4)A very enjoyable time
+blast
+1)A loud,sudden sound
+2)An violent explosion
+3)A violent gust of wind
+4)A very good time;An enjoyable moment
+big
+1)Of great size
+2)Large
+3)Massive or enormous
+4)Huge
+carry
+1)To transport from one place to another
+2)To be transmitted
+3)To bear the burden of having something
+4)To lift a object
+call
+1)A decision or judgement
+2)A telephone conversation
+3)A cry or shout
+4)A beckoning or summoning
+compile
+1)To construct or build
+2)To use a compiler to produce executable code
+3)To contain or comprise
+4)To write or to compose
+sort
+1) An algorithm for sorting a list of elements in a particular sequence.
+2) A category of things distinguished by some common quality.
+3) A person of particular nature.
+4) An approximate definition or example.
+set
+1) A group of things of same kind.
+2) A unit of play in tennis or squash.
+3) The process of becoming hard or solid by cooling or drying.
+4) Being temporarily ready to respond in a particular way.
+fetch
+1)Go or come after and bring 
+2)to be sold for a certain price
+3)To take away or remove
+4)to convey
+grasp
+1) Understanding of nature of something
+2) Hold firmly
+3) comprehend
+4) Limit of capability.
